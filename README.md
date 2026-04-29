@@ -2,7 +2,7 @@
 
 Private repository for the Dhara Robotics product website.
 
-**Live site:** https://aakashluharpanchal.github.io/dhara-robotics
+**Live site:** https://aakashluharpanchal.github.io/dhara_robotics
 
 ## Structure
 ```
